@@ -2,7 +2,7 @@ public class File1{
 	string field1 {get; set;}
 	int field2 {get; set;}
 	
-	public Method1(){
-		implement1
+	public Method2(){
+		implementing
 	}
 }
