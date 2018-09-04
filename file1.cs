@@ -5,4 +5,7 @@ public class File1{
 	public Method2(){
 		implementing
 	}
+	
+	public Method3{}{
+	}
 }
